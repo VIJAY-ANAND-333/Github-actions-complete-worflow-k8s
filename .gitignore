@@ -1,0 +1,3 @@
+*.log
+expert.yml
+docker-compose.yml
